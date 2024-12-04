@@ -1,7 +1,6 @@
 # 💫 About Me:
 App & Web Developer / Vulnerability researcher<br><br>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
-
+<img src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzMzMTE2MTUsIm5iZiI6MTczMzMxMTMxNSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA0VDExMjE1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdkYTljMjk3NGFlZTgzYzI1NTQ3MzA0NDNlNzc5NjJlOTkyZjRhZmY2NmY2OGIxNzc4YzIxNGRiYjk1OTFjNTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gwsQ7UID1DNRUh-D_0wR5lLbOoKM9NzlXxOwP3vdQ5s" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alirezarce) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-nourkazemi-b1a541184) 

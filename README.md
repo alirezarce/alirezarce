@@ -1,7 +1,7 @@
 # 💫 About Me:
 App & Web Developer / Vulnerability researcher<br><br>
-
 ![Uploading 241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif…]()
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alirezarce) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-nourkazemi-b1a541184) 
